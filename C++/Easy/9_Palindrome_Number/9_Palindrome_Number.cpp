@@ -1,6 +1,6 @@
-#include "iomanip";
-#include "cmath";
-#include "math.h";
+#include "iomanip"
+#include "cmath"
+#include "math.h"
 
 using namespace std;
 
