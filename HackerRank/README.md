@@ -1,4 +1,4 @@
-# solvedLeetcode
+# solvedTechnicalProblems
 My HackerRank problems I have solved.
 
 # How to contribute
