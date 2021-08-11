@@ -1,4 +1,4 @@
-# solvedLeetcode
+# solvedTechnicalProblems
 My leetcode problems I have solved.
 
 # How to contribute
