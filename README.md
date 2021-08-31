@@ -1,5 +1,5 @@
 # solvedTechnicalProblems
-My leetcode and hackerrank problems I have solved.
+My technical problems I have solved.
 
 # How to contribute
 * create a new branch
