@@ -1,4 +1,4 @@
-# solvedTechnicalProblems
+# Solved Technical Problems
 My technical problems I have solved.
 
 # How to contribute
